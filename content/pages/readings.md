@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the journal articles assigned as readings
+  for each lecture session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
